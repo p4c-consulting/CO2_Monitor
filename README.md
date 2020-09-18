@@ -1,6 +1,8 @@
 # CO2_Monitor
 CO2 Monitor with ESP32 and SCD30
 
+!(C:\Users\Rainer\Desktop\IMG_9436.jpg)
+
 <h1> BOM
  
  <h3>
