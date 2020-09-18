@@ -3,7 +3,7 @@ CO2 Monitor with ESP32 and SCD30
 
 <h1> BOM
  
- <h2>
+ <h3>
  
   * Heltec    WIFI LORA32(V2)
   * Sensirion SCD30
