@@ -2,8 +2,8 @@
 #include <Wire.h>
 #include "SparkFun_SCD30_Arduino_Library.h" //Click here to get the library: http://librarymanager/All#SparkFun_SCD30
 U8X8_SSD1306_128X64_NONAME_SW_I2C u8x8(/* clock=*/ 15, /* data=*/ 4, /* reset=*/ 16);
-SCD30 airSensor;
-#define gn  2
+SCD30 airSensor; // via I2C
+#define gn    2  // GPIO at Heltec ESP32 Lora/WIFI V2
 #define gelb  12
 #define rot   13
 
