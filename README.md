@@ -2,9 +2,8 @@
 CO2 Monitor with ESP32 and SCD30
 
 <h1> BOM
-<h2>
-* Heltec WiFi LoRa 32 (V2)
-* SENSIRION SCD30
-* Lipo 3.7V 1200mAh
-* 3xLED 5mm
-* 3x 330 Ohm
+  *Heltec    WIFI LORA32(V2)
+  *Sensirion SCD30
+  *Lipo 3.7V 1200mAh
+  * 3x LED
+  * 3x 330 Ohm
