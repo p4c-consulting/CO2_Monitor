@@ -1,6 +1,7 @@
 # CO2_Monitor
 CO2 Monitor with ESP32 and SCD30
 
+![CO2 Monitor](https://github.com/p4c-consulting/CO2_Monitor/blob/master/CO2_Monitor.png)
 
 <h1> BOM
  
